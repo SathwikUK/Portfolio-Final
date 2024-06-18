@@ -1,7 +1,9 @@
-# initial_react_portfolio
+# Portfolio-Final
 
-npm i
-npm run dev
+This is my portfolio project.
 
-code a program
-happy coding :)
+Steps to run:
+- npm i
+- npm run dev
+
+Start coding and enjoy!
