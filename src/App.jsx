@@ -3,11 +3,12 @@ import Hero from "./components/Hero";
 import About from "./components/About";
 import Skills from "./components/Skills";
 import Project from "./components/Project";
-import Hireme from "./components/Hireme";
+
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import Bot from "./components/Bot";
+import ScrollToTopButton from "./components/ScrolltoTop";
 
 const App = () => {
   return (
@@ -17,9 +18,10 @@ const App = () => {
       <Hero />
       <About />
       <Skills />
-      <Hireme />
+      
       <Project />
       <Contact />
+      <ScrollToTopButton/>
       <Footer />
     </div>
   );
