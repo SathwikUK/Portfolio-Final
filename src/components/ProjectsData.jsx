@@ -37,7 +37,15 @@ const ProjectsData = [
     description: "This website provides A preview of my data works as a portfolio for many people",
     github: "https://github.com/SathwikUK/Developer-Hub",
     demo: "https://developer-hub-api.vercel.app/",
-  }
+  },
+  {id: "2",
+    name: "Workout-JI",
+    image: workji,
+    icons: [BiLogoReact, BiLogoCss3, SiJavascript,SiExpress,BiLogoMongodb,FaNodeJs],
+    description: "This website insights gives scheduling our workouts",
+    github: "https://github.com/SathwikUK/workout-ji",
+    demo: "https://workout-ji-mj3w.vercel.app/",
+  },
   
 ];
 

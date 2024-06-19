@@ -27,7 +27,7 @@ const Projects = () => {
               data-aos="zoom-in-up"
               data-aos-duration="1000"
               data-aos-once="false"
-              className="relative overflow-hidden rounded-xl shadow-xl group h-60 w-full"  // Adjusted height
+              className="relative overflow-hidden rounded-xl shadow-xl group h-80 w-70"  // Adjusted height
             >
               <img src={project.image} alt={project.name} className=" object-cover rounded-xl" />
               <div className="absolute inset-0 bg-yellow-500 bg-opacity-90 opacity-0 group-hover:opacity-100 transition-opacity duration-500 flex flex-col justify-center items-center p-2">
